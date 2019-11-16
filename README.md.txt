@@ -1,0 +1,2 @@
+This is a program is written in C, which converts an arithmatic expression to its postfix notation and evaluate the postfix notaion.
+You enter digits and operators, with no spaces. The program finds the numerical equivalent. Although the input is restricted to single-digit numbers, the results are not.
